@@ -1,6 +1,7 @@
 # spider_for_qianxing（千星奇遇爬虫）
 
 用于下载千星奇遇教程相关的 JSON 文件并持久化到本地，并生成结构化的 Markdown 文件，便于 AI 阅读与分析。
+并且采用了Github workflow实现每个月自动更新文件到云端代码仓库，确保文件内容保持最新。
 
 > 版权归属米哈游，仅供学习交流使用，请勿用于商业用途。
 
@@ -22,7 +23,7 @@
 
 安装依赖（PowerShell）：
 ```
-pip install requests
+pip install requests==2.32.3
 ```
 
 ## 快速开始

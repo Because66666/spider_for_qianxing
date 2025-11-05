@@ -1,0 +1,48 @@
+name: Monthly Data Refresh
+
+# GitHub Actions 的 cron 使用 UTC 时间。
+# 这里设定为每月 1 日 03:00 UTC，对应东八区 11:00。
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+            python-version: '3.11'
+
+      - name: Install dependencies and run scripts
+        shell: bash
+        run: |
+          pip install requests==2.32.3; 
+          python download_json.py; 
+          python parse_json.py
+
+      - name: Configure Git author
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commit changes if any
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "Monthly data refresh: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Push changes
+        run: |
+          git push
