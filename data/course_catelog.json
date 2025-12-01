@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2025-10-17 11:08:26",
+    "updated_at": "2025-11-07 18:03:02",
     "title": "学习导览&读前须知",
     "path_id": "mhhw2l08o6qo",
     "real_id": "mhhw2l08o6qo",
@@ -38,7 +38,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-11 11:26:37",
+        "updated_at": "2025-11-10 10:40:58",
         "title": "1.4存档导入与导出",
         "path_id": "mhjuwpiubrh0",
         "real_id": "mhjuwpiubrh0",
@@ -95,7 +95,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-29 12:03:35",
+        "updated_at": "2025-11-13 20:56:04",
         "title": "2.5特效——让效果更丰富",
         "path_id": "mh055pi9lit0",
         "real_id": "mh055pi9lit0",
@@ -103,7 +103,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-29 12:03:50",
+        "updated_at": "2025-11-13 20:52:07",
         "title": "2.6界面控件——展示一段信息，按下触发事件",
         "path_id": "mhr6jorjp77a",
         "real_id": "mhr6jorjp77a",
@@ -143,7 +143,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-29 12:04:47",
+        "updated_at": "2025-11-06 11:11:05",
         "title": "2.11关卡结算——游戏结束，让所有玩家进行游玩结算",
         "path_id": "mhv3ufrgotny",
         "real_id": "mhv3ufrgotny",
@@ -370,13 +370,13 @@
         "real_id": "mhv8u3r4y8r2",
         "children": [
           {
-            "updated_at": "2025-10-21 16:14:47",
+            "updated_at": "2025-11-11 18:13:18",
             "title": "元件的制作",
             "path_id": "mhfbsz9agu62",
             "real_id": "mhfbsz9agu62",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhfbsz9agu62/247a5748-27f9-47a2-9fc9-659d1511d623.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhfbsz9agu62/91f9bcd7-7205-4418-9eac-e0e2e686a981.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
             "updated_at": "2025-10-21 16:00:19",
@@ -415,13 +415,13 @@
         "real_id": "mhdbm29p5ljm",
         "children": [
           {
-            "updated_at": "2025-10-21 18:54:02",
+            "updated_at": "2025-11-11 18:09:26",
             "title": "组件设置：资产导入",
             "path_id": "mhysk6rycl8m",
             "real_id": "mhysk6rycl8m",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhysk6rycl8m/e814c62a-f51e-44bc-8c0c-3c8e84ee54eb.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhysk6rycl8m/8309e2b5-7b47-4f66-81ee-cdcd946f040a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
             "updated_at": "2025-10-21 16:02:47",
@@ -433,22 +433,22 @@
             "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyn09rtxvni/55c8d920-df78-41b8-83ce-3c47fb4e76b4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2025-10-21 16:03:01",
+            "updated_at": "2025-11-11 18:09:48",
             "title": "组件设置：特效",
             "path_id": "mh7lmaiju798",
             "real_id": "mh7lmaiju798",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7lmaiju798/3a993777-ade9-425c-8f61-c175e1ff2f19.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7lmaiju798/4c860c51-b0af-4029-86de-47a3263a1c27.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2025-10-21 16:03:21",
+            "updated_at": "2025-11-11 18:10:16",
             "title": "组件设置：技能与职业",
             "path_id": "mhgk8b99qiuy",
             "real_id": "mhgk8b99qiuy",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgk8b99qiuy/f3f2c791-0f61-4585-9239-ec0e19683cdb.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgk8b99qiuy/b63064bb-0361-4ca0-be83-81c812c2e02a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
             "updated_at": "2025-10-21 16:04:07",
@@ -469,13 +469,13 @@
             "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyhgcrpj62e/17dba101-7e7d-48c8-9e11-4c1b3c6b6c74.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2025-10-21 16:06:35",
+            "updated_at": "2025-11-11 18:12:49",
             "title": "流程逻辑设置",
             "path_id": "mh7g2diffho4",
             "real_id": "mh7g2diffho4",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7g2diffho4/df21e843-f6c5-4a15-9bc5-da47e8794403.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7g2diffho4/02aa5138-5dee-4dcd-8b6f-889915e8fe21.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
             "updated_at": "2025-10-21 18:53:56",
@@ -505,7 +505,7 @@
             "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7aigib0s30/9facf63c-c700-4925-b0d0-027844e40828.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2025-10-21 16:14:24",
+            "updated_at": "2025-11-11 18:08:03",
             "title": " 关卡导出",
             "path_id": "mhg94h90x3oq",
             "real_id": "mhg94h90x3oq",
