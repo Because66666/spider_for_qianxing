@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2025-11-07 18:03:02",
+    "updated_at": "2025-12-26 15:22:09",
     "title": "学习导览&读前须知",
     "path_id": "mhhw2l08o6qo",
     "real_id": "mhhw2l08o6qo",
@@ -8,7 +8,7 @@
     "article_type": 8
   },
   {
-    "updated_at": "2025-11-27 12:01:11",
+    "updated_at": "2026-01-13 15:04:12",
     "title": "更新日志",
     "path_id": "mh7pc59gri16",
     "real_id": "mh7pc59gri16",
@@ -22,7 +22,7 @@
     "real_id": "mhj7yf0vk6nk",
     "children": [
       {
-        "updated_at": "2025-10-31 10:47:17",
+        "updated_at": "2026-01-14 10:45:50",
         "title": "1.1编辑器界面基础认识",
         "path_id": "mhlcjxr9duvy",
         "real_id": "mhlcjxr9duvy",
@@ -30,7 +30,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-11 11:02:53",
+        "updated_at": "2026-01-14 10:50:10",
         "title": "1.2创建关卡与试玩",
         "path_id": "mhcegrr5omvi",
         "real_id": "mhcegrr5omvi",
@@ -62,10 +62,18 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-11-27 16:59:28",
+        "updated_at": "2026-01-08 14:24:30",
         "title": "1.6奇域资产中心",
         "path_id": "mhgf8i0hvzag",
         "real_id": "mhgf8i0hvzag",
+        "children": [],
+        "article_type": 8
+      },
+      {
+        "updated_at": "2026-01-09 16:29:19",
+        "title": "1.7经典模式",
+        "path_id": "mhvoc3rviq32",
+        "real_id": "mhvoc3rviq32",
         "children": [],
         "article_type": 8
       }
@@ -135,7 +143,7 @@
         "article_type": 8
       },
       {
-        "updated_at": "2025-10-24 18:35:09",
+        "updated_at": "2026-01-06 15:52:29",
         "title": "2.8技能设置——让角色能攻击",
         "path_id": "mh0apmie08e4",
         "real_id": "mh0apmie08e4",
@@ -163,6 +171,14 @@
         "title": "2.11关卡结算——游戏结束，让所有玩家进行游玩结算",
         "path_id": "mhv3ufrgotny",
         "real_id": "mhv3ufrgotny",
+        "children": [],
+        "article_type": 8
+      },
+      {
+        "updated_at": "2026-01-23 13:59:17",
+        "title": "2.12场景生成模板管理——快速生成关卡的场景",
+        "path_id": "mhz6s29zzonm",
+        "real_id": "mhz6s29zzonm",
         "children": [],
         "article_type": 8
       }
@@ -318,6 +334,32 @@
         "real_id": "mhhe9ji9ysn8",
         "children": [],
         "article_type": 8
+      },
+      {
+        "updated_at": "2026-01-23 13:59:13",
+        "title": "3.19复杂造物——通过状态决策触发自定义造物技能",
+        "path_id": "mh6riq9wvxqq",
+        "real_id": "mh6riq9wvxqq",
+        "children": [],
+        "article_type": 8
+      }
+    ],
+    "article_type": 8
+  },
+  {
+    "updated_at": "2026-02-04 21:04:26",
+    "title": "千星奇域创作分享",
+    "path_id": "mhyrrdiy2zis",
+    "real_id": "mhyrrdiy2zis",
+    "children": [
+      {
+        "updated_at": "2026-02-24 14:53:12",
+        "title": "千星奇域 开发组分享（一）|  玩法设计交流",
+        "path_id": "mhu04t9rm1xm",
+        "real_id": "mhu04t9rm1xm",
+        "children": [],
+        "article_type": 8,
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
       }
     ],
     "article_type": 8
@@ -528,6 +570,15 @@
             "children": [],
             "article_type": 8,
             "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhg94h90x3oq/ea6fc591-4da4-4682-8d90-e449e682b2e7.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+          },
+          {
+            "updated_at": "2026-02-12 14:23:53",
+            "title": "如何打造吸引玩家的宣传素材",
+            "path_id": "mhv9m60wv7ew",
+            "real_id": "mhv9m60wv7ew",
+            "children": [],
+            "article_type": 8,
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           }
         ],
         "article_type": 8
@@ -536,15 +587,7 @@
     "article_type": 8
   },
   {
-    "updated_at": "2025-10-31 10:29:20",
-    "title": "《原神》编辑器和千星沙箱常见问题",
-    "path_id": "mhjtk90iodts",
-    "real_id": "mhjtk90iodts",
-    "children": [],
-    "article_type": 8
-  },
-  {
-    "updated_at": "2025-10-22 15:46:26",
+    "updated_at": "2025-12-26 15:23:00",
     "title": "创作者中心入驻指引",
     "path_id": "mh53ejiegx0k",
     "real_id": "mh53ejiegx0k",
