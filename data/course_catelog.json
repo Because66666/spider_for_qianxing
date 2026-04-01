@@ -579,6 +579,42 @@
             "children": [],
             "article_type": 8,
             "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+          },
+          {
+            "updated_at": "2026-03-03 19:11:11",
+            "title": "奇域资产中心",
+            "path_id": "mhi1f1ifqj1w",
+            "real_id": "mhi1f1ifqj1w",
+            "children": [],
+            "article_type": 8,
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhi1f1ifqj1w/8b2e44a8-acf8-4a89-8914-3a19ebb4e675.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+          },
+          {
+            "updated_at": "2026-03-25 17:43:51",
+            "title": "定时器",
+            "path_id": "mhll54i94vjg",
+            "real_id": "mhll54i94vjg",
+            "children": [],
+            "article_type": 8,
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhll54i94vjg/6b3cc971-9c42-473c-9c36-b871efec4635.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+          },
+          {
+            "updated_at": "2026-03-25 17:25:25",
+            "title": "全局计时器",
+            "path_id": "mhujr59z1756",
+            "real_id": "mhujr59z1756",
+            "children": [],
+            "article_type": 8,
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhujr59z1756/227d9d18-a941-477a-b72b-6e381b06911a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+          },
+          {
+            "updated_at": "2026-03-25 17:48:42",
+            "title": "信号",
+            "path_id": "mh3id60oxiqw",
+            "real_id": "mh3id60oxiqw",
+            "children": [],
+            "article_type": 8,
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh3id60oxiqw/8595c1ce-e4a1-4200-9d8e-831eda19df1e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           }
         ],
         "article_type": 8
