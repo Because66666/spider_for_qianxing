@@ -1,11 +1,11 @@
 [
   {
-    "updated_at": "2026-04-09 17:32:20",
+    "updated_at": "2026-05-12 11:52:41",
     "title": "更新日志",
     "path_id": "mhs2w008wf14",
     "real_id": "mhs2w008wf14",
     "children": [],
-    "article_type": 8
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-12-18 12:07:37",
@@ -13,7 +13,8 @@
     "path_id": "mh29wpicgvh0",
     "real_id": "mh29wpicgvh0",
     "children": [],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-19 18:47:23",
@@ -27,7 +28,8 @@
         "path_id": "mhn4bsi5lb58",
         "real_id": "mhn4bsi5lb58",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 11:35:17",
@@ -36,7 +38,8 @@
         "real_id": "mhwe1n94b1x6",
         "children": [],
         "article_type": 8,
-        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/fc69214f-5c2e-48df-8b82-969a9d8277a4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/fc69214f-5c2e-48df-8b82-969a9d8277a4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 11:38:14",
@@ -44,7 +47,8 @@
         "path_id": "mhnffmieeqbg",
         "real_id": "mhnffmieeqbg",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-17 11:23:27",
@@ -52,7 +56,8 @@
         "path_id": "mhwp5h9d4h3e",
         "real_id": "mhwp5h9d4h3e",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 11:46:10",
@@ -60,15 +65,16 @@
         "path_id": "mhexhcr1qjh2",
         "real_id": "mhexhcr1qjh2",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
-        "updated_at": "2026-03-05 14:12:05",
+        "updated_at": "2026-05-06 19:21:01",
         "title": "关卡设置",
         "path_id": "mhn9vpia00qc",
         "real_id": "mhn9vpia00qc",
         "children": [],
-        "article_type": 8
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-12-18 14:27:42",
@@ -76,7 +82,8 @@
         "path_id": "mhie54ik9ovg",
         "real_id": "mhie54ik9ovg",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 14:11:01",
@@ -84,7 +91,8 @@
         "path_id": "mh9fj3rudd9q",
         "real_id": "mh9fj3rudd9q",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-12-12 16:33:52",
@@ -92,7 +100,8 @@
         "path_id": "mho777i0ga90",
         "real_id": "mho777i0ga90",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 14:47:11",
@@ -100,7 +109,8 @@
         "path_id": "mhxbd59urbfu",
         "real_id": "mhxbd59urbfu",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 14:52:13",
@@ -108,7 +118,8 @@
         "path_id": "mhq6wdimcd84",
         "real_id": "mhq6wdimcd84",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-18 10:39:28",
@@ -116,10 +127,12 @@
         "path_id": "mhf66q9jc4uq",
         "real_id": "mhf66q9jc4uq",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-22 10:27:35",
@@ -145,10 +158,12 @@
                 "path_id": "mh796lr44x0e",
                 "real_id": "mh796lr44x0e",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-17 11:14:03",
@@ -156,7 +171,8 @@
             "path_id": "mh3ecor1x5cm",
             "real_id": "mh3ecor1x5cm",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 15:47:43",
@@ -170,18 +186,30 @@
                 "path_id": "mhb8nl0w8cao",
                 "real_id": "mhb8nl0w8cao",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 10:31:57",
             "title": "物件",
             "path_id": "mhlh4n9m4i56",
             "real_id": "mhlh4n9m4i56",
-            "children": [],
-            "article_type": 8
+            "children": [
+              {
+                "updated_at": "2026-05-06 19:26:35",
+                "title": "水物件",
+                "path_id": "mhx4d30ev2uo",
+                "real_id": "mhx4d30ev2uo",
+                "children": [],
+                "doc_type": "document"
+              }
+            ],
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 10:32:16",
@@ -189,7 +217,8 @@
             "path_id": "mhciimiw86jg",
             "real_id": "mhciimiw86jg",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 10:32:31",
@@ -197,10 +226,12 @@
             "path_id": "mh3pgiraqkiu",
             "real_id": "mh3pgiraqkiu",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-09-11 15:13:17",
@@ -220,7 +251,8 @@
                 "path_id": "mhuqbn9yn5bu",
                 "real_id": "mhuqbn9yn5bu",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-10-17 11:38:07",
@@ -228,7 +260,8 @@
                 "path_id": "mhrutdio6904",
                 "real_id": "mhrutdio6904",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 16:04:37",
@@ -236,7 +269,8 @@
                 "path_id": "mhe1ixri46ta",
                 "real_id": "mhe1ixri46ta",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 10:37:25",
@@ -244,7 +278,8 @@
                 "path_id": "mhzldmiwdgu4",
                 "real_id": "mhzldmiwdgu4",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 12:05:39",
@@ -252,7 +287,8 @@
                 "path_id": "mhqmrlr6h58e",
                 "real_id": "mhqmrlr6h58e",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 16:12:22",
@@ -260,7 +296,8 @@
                 "path_id": "mhlb1vivioys",
                 "real_id": "mhlb1vivioys",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 10:40:19",
@@ -268,10 +305,12 @@
                 "path_id": "mh6fj30p2cmo",
                 "real_id": "mh6fj30p2cmo",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 10:44:30",
@@ -285,7 +324,8 @@
                 "path_id": "mhvyqz9xwu0q",
                 "real_id": "mhvyqz9xwu0q",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 10:51:27",
@@ -293,7 +333,8 @@
                 "path_id": "mhw9ut96q96y",
                 "real_id": "mhw9ut96q96y",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:39:58",
@@ -301,7 +342,8 @@
                 "path_id": "mhvg40rc5w9i",
                 "real_id": "mhvg40rc5w9i",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-02-09 10:58:19",
@@ -309,7 +351,8 @@
                 "path_id": "mha42r0cwx74",
                 "real_id": "mha42r0cwx74",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 16:46:05",
@@ -317,7 +360,8 @@
                 "path_id": "mh0ucw9e76f6",
                 "real_id": "mh0ucw9e76f6",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:38:44",
@@ -325,10 +369,12 @@
                 "path_id": "mh3rgo0c16c8",
                 "real_id": "mh3rgo0c16c8",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-15 14:16:20",
@@ -342,7 +388,8 @@
                 "path_id": "mh5jko05fzyw",
                 "real_id": "mh5jko05fzyw",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 16:48:35",
@@ -350,7 +397,8 @@
                 "path_id": "mhnmcmipncrg",
                 "real_id": "mhnmcmipncrg",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 10:52:37",
@@ -358,7 +406,8 @@
                 "path_id": "mh8w69rzuc3i",
                 "real_id": "mh8w69rzuc3i",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-19 16:37:58",
@@ -366,7 +415,8 @@
                 "path_id": "mhso1b9wjica",
                 "real_id": "mhso1b9wjica",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 10:51:12",
@@ -374,7 +424,8 @@
                 "path_id": "mhaqt9rgqv4u",
                 "real_id": "mhaqt9rgqv4u",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 10:56:00",
@@ -382,7 +433,8 @@
                 "path_id": "mhstl890y7xe",
                 "real_id": "mhstl890y7xe",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-10-17 11:43:00",
@@ -390,7 +442,8 @@
                 "path_id": "mhd7nxrfa8im",
                 "real_id": "mhd7nxrfa8im",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 10:44:51",
@@ -398,7 +451,8 @@
                 "path_id": "mhawd6rl5kpy",
                 "real_id": "mhawd6rl5kpy",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-11-06 10:50:15",
@@ -406,7 +460,8 @@
                 "path_id": "mhufb90zbnts",
                 "real_id": "mhufb90zbnts",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-12 10:40:35",
@@ -414,7 +469,8 @@
                 "path_id": "mh2pir0hat1s",
                 "real_id": "mh2pir0hat1s",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 10:52:35",
@@ -422,7 +478,8 @@
                 "path_id": "mhuiob9dg1dm",
                 "real_id": "mhuiob9dg1dm",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:03:39",
@@ -430,7 +487,8 @@
                 "path_id": "mhuts59m9gju",
                 "real_id": "mhuts59m9gju",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:34:50",
@@ -438,7 +496,8 @@
                 "path_id": "mh4ppo02m1o8",
                 "real_id": "mh4ppo02m1o8",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:05:04",
@@ -446,7 +505,8 @@
                 "path_id": "mhmshmimtegs",
                 "real_id": "mhmshmimtegs",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:06:06",
@@ -454,7 +514,8 @@
                 "path_id": "mhn95di01j84",
                 "real_id": "mhn95di01j84",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:06:51",
@@ -462,7 +523,8 @@
                 "path_id": "mhwiv89yra02",
                 "real_id": "mhwiv89yra02",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-26 15:26:31",
@@ -470,7 +532,8 @@
                 "path_id": "mh5n160t2b6w",
                 "real_id": "mh5n160t2b6w",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:30:28",
@@ -478,7 +541,8 @@
                 "path_id": "mhwtz297kp6a",
                 "real_id": "mhwtz297kp6a",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-23 11:04:04",
@@ -486,7 +550,8 @@
                 "path_id": "mh5y5001vqd4",
                 "real_id": "mh5y5001vqd4",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-10-20 10:29:26",
@@ -494,7 +559,8 @@
                 "path_id": "mh63ox06afy8",
                 "real_id": "mh63ox06afy8",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 10:55:50",
@@ -502,7 +568,8 @@
                 "path_id": "mho6gviqhsqs",
                 "real_id": "mho6gviqhsqs",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:17:42",
@@ -510,7 +577,8 @@
                 "path_id": "mhfc0lr1tcke",
                 "real_id": "mhfc0lr1tcke",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:18:10",
@@ -518,7 +586,8 @@
                 "path_id": "mh0pppib5eyc",
                 "real_id": "mh0pppib5eyc",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-15 17:58:55",
@@ -526,7 +595,8 @@
                 "path_id": "mhgkan9wgil6",
                 "real_id": "mhgkan9wgil6",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:22:17",
@@ -534,7 +604,8 @@
                 "path_id": "mh6c3uri84h2",
                 "real_id": "mh6c3uri84h2",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-19 16:35:08",
@@ -542,10 +613,12 @@
                 "path_id": "mhx9b60or59k",
                 "real_id": "mhx9b60or59k",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-04-01 19:09:55",
@@ -559,7 +632,8 @@
                 "path_id": "mhk23ora1wom",
                 "real_id": "mhk23ora1wom",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:25:21",
@@ -567,13 +641,16 @@
                 "path_id": "mhb3ho0k5l2w",
                 "real_id": "mhb3ho0k5l2w",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-09-22 11:04:28",
@@ -587,7 +664,8 @@
             "path_id": "mhe1030vx380",
             "real_id": "mhe1030vx380",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 17:29:15",
@@ -595,7 +673,8 @@
             "path_id": "mhw3s1ig4g0k",
             "real_id": "mhw3s1ig4g0k",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-10 17:58:34",
@@ -603,7 +682,8 @@
             "path_id": "mh57xz9afh7e",
             "real_id": "mh57xz9afh7e",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-04-09 18:16:17",
@@ -617,7 +697,8 @@
                 "path_id": "mhwkfsitckrw",
                 "real_id": "mhwkfsitckrw",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-10-17 11:51:20",
@@ -625,7 +706,8 @@
                 "path_id": "mhjja1ipq9ck",
                 "real_id": "mhjja1ipq9ck",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:34:00",
@@ -633,7 +715,8 @@
                 "path_id": "mhnltrr3g966",
                 "real_id": "mhnltrr3g966",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 11:09:30",
@@ -641,15 +724,16 @@
                 "path_id": "mhen7r0djxkg",
                 "real_id": "mhen7r0djxkg",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-09-22 11:09:39",
+                "updated_at": "2026-05-07 14:49:19",
                 "title": "进度条界面控件",
                 "path_id": "mhwpzpixrad0",
                 "real_id": "mhwpzpixrad0",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 11:09:47",
@@ -657,7 +741,8 @@
                 "path_id": "mhnrdor7uyra",
                 "real_id": "mhnrdor7uyra",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:36:55",
@@ -665,7 +750,8 @@
                 "path_id": "mhesro0hyn5k",
                 "real_id": "mhesro0hyn5k",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 11:15:32",
@@ -673,7 +759,8 @@
                 "path_id": "mh2teu0bmfbc",
                 "real_id": "mh2teu0bmfbc",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-20 15:31:43",
@@ -681,7 +768,8 @@
                 "path_id": "mh2iyk9fa4gy",
                 "real_id": "mh2iyk9fa4gy",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-04-13 16:29:18",
@@ -689,7 +777,8 @@
                 "path_id": "mhbn4i09l5ns",
                 "real_id": "mhbn4i09l5ns",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-20 15:00:12",
@@ -697,7 +786,8 @@
                 "path_id": "mh2oih9jou22",
                 "real_id": "mh2oih9jou22",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-20 14:55:28",
@@ -705,7 +795,8 @@
                 "path_id": "mhtpwgitsigc",
                 "real_id": "mhtpwgitsigc",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-04-09 17:44:51",
@@ -713,7 +804,8 @@
                 "path_id": "mhkrafr3w6um",
                 "real_id": "mhkrafr3w6um",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-20 15:15:40",
@@ -721,21 +813,56 @@
                 "path_id": "mh2u2e9o3jn6",
                 "real_id": "mh2u2e9o3jn6",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-09 11:03:21",
+                "updated_at": "2026-05-07 15:55:51",
                 "title": "特殊数字控件",
                 "path_id": "mhkwucr8awfq",
                 "real_id": "mhkwucr8awfq",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-07 14:59:57",
+                "title": "图文输入框控件",
+                "path_id": "mh496c08hooo",
+                "real_id": "mh496c08hooo",
+                "children": [],
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-07 15:48:19",
+                "title": "状态显示区控件",
+                "path_id": "mh4ve00q4j14",
+                "real_id": "mh4ve00q4j14",
+                "children": [],
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-07 15:25:40",
+                "title": "消息队列控件",
+                "path_id": "mhs1f7ibtc6c",
+                "real_id": "mhs1f7ibtc6c",
+                "children": [],
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-12 11:51:17",
+                "title": "自定义小地图控件",
+                "path_id": "mhls9miyjwjg",
+                "real_id": "mhls9miyjwjg",
+                "children": [],
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-06-05 14:26:59",
@@ -750,12 +877,12 @@
             "real_id": "mhewyi0fjfvs",
             "children": [
               {
-                "updated_at": "2026-01-30 11:13:05",
+                "updated_at": "2026-05-07 16:22:13",
                 "title": "界面布局",
                 "path_id": "mhozt0r74ng6",
                 "real_id": "mhozt0r74ng6",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-04-10 10:37:50",
@@ -763,10 +890,20 @@
                 "path_id": "mhg1700h8bug",
                 "real_id": "mhg1700h8bug",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-07 16:21:44",
+                "title": "素材库",
+                "path_id": "mhwylormozcm",
+                "real_id": "mhwylormozcm",
+                "children": [],
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-05 15:52:28",
@@ -774,7 +911,8 @@
             "path_id": "mhfua005zpeg",
             "real_id": "mhfua005zpeg",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-30 17:19:18",
@@ -788,7 +926,8 @@
                 "path_id": "mho2rt9ir6ay",
                 "real_id": "mho2rt9ir6ay",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-30 11:12:32",
@@ -796,7 +935,8 @@
                 "path_id": "mhf45sisuup8",
                 "real_id": "mhf45sisuup8",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:51:23",
@@ -804,7 +944,8 @@
                 "path_id": "mh65jrr2yj3i",
                 "real_id": "mh65jrr2yj3i",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-12-23 11:37:13",
@@ -812,7 +953,8 @@
                 "path_id": "mhx1du08nhwo",
                 "real_id": "mhx1du08nhwo",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-10-30 17:16:35",
@@ -820,10 +962,20 @@
                 "path_id": "mhjdhpi4sd10",
                 "real_id": "mhjdhpi4sd10",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
+              },
+              {
+                "updated_at": "2026-05-12 11:51:50",
+                "title": "奇域任务",
+                "path_id": "mhv1zh9x9nbe",
+                "real_id": "mhv1zh9x9nbe",
+                "children": [],
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:16:26",
@@ -837,7 +989,8 @@
                 "path_id": "mhbgx0rspbqu",
                 "real_id": "mhbgx0rspbqu",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-22 16:53:20",
@@ -845,7 +998,8 @@
                 "path_id": "mhkl2yin0cxo",
                 "real_id": "mhkl2yin0cxo",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 11:17:22",
@@ -853,7 +1007,8 @@
                 "path_id": "mh2cr30yeak0",
                 "real_id": "mh2cr30yeak0",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-09-22 11:17:37",
@@ -861,7 +1016,8 @@
                 "path_id": "mhogfq9bf86q",
                 "real_id": "mhogfq9bf86q",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-23 11:00:29",
@@ -869,7 +1025,8 @@
                 "path_id": "mhkfj1iilnck",
                 "real_id": "mhkfj1iilnck",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-11 17:55:25",
@@ -877,10 +1034,12 @@
                 "path_id": "mhi9s7isvp50",
                 "real_id": "mhi9s7isvp50",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-24 11:17:15",
@@ -894,7 +1053,8 @@
                 "path_id": "mh6ate95agb6",
                 "real_id": "mh6ate95agb6",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-05 14:40:01",
@@ -902,7 +1062,8 @@
                 "path_id": "mhftoirpwd46",
                 "real_id": "mhftoirpwd46",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-30 16:39:39",
@@ -910,7 +1071,8 @@
                 "path_id": "mhapp3r8gkdq",
                 "real_id": "mhapp3r8gkdq",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-04 17:08:02",
@@ -918,7 +1080,8 @@
                 "path_id": "mhhzqw98264i",
                 "real_id": "mhhzqw98264i",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-03-05 17:15:30",
@@ -926,10 +1089,12 @@
                 "path_id": "mh0inr0jak34",
                 "real_id": "mh0inr0jak34",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-09 15:41:32",
@@ -937,7 +1102,8 @@
             "path_id": "mhodlcrpht3q",
             "real_id": "mhodlcrpht3q",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-19 17:05:28",
@@ -945,7 +1111,8 @@
             "path_id": "mh6rh59iil2i",
             "real_id": "mh6rh59iil2i",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 18:09:36",
@@ -953,7 +1120,8 @@
             "path_id": "mhfvn30ctm9c",
             "real_id": "mhfvn30ctm9c",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-01-23 10:08:37",
@@ -961,7 +1129,8 @@
             "path_id": "mhhl0gire830",
             "real_id": "mhhl0gire830",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-01-30 11:09:59",
@@ -969,7 +1138,8 @@
             "path_id": "mh333vim2h44",
             "real_id": "mh333vim2h44",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 18:13:14",
@@ -977,10 +1147,12 @@
             "path_id": "mh4ejditwixg",
             "real_id": "mh4ejditwixg",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-24 11:34:31",
@@ -994,7 +1166,8 @@
             "path_id": "mhzcw29qjjma",
             "real_id": "mhzcw29qjjma",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:43:28",
@@ -1002,7 +1175,8 @@
             "path_id": "mhk59aiqtwyk",
             "real_id": "mhk59aiqtwyk",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 18:15:49",
@@ -1010,7 +1184,8 @@
             "path_id": "mhaneb9qnvay",
             "real_id": "mhaneb9qnvay",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-31 10:47:57",
@@ -1018,7 +1193,8 @@
             "path_id": "mhq9b601kh9k",
             "real_id": "mhq9b601kh9k",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-09 17:30:02",
@@ -1026,7 +1202,8 @@
             "path_id": "mhdznsie9up8",
             "real_id": "mhdznsie9up8",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-11 18:18:19",
@@ -1034,7 +1211,8 @@
             "path_id": "mhzhzb9rw0uy",
             "real_id": "mhzhzb9rw0uy",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-01-22 16:45:15",
@@ -1042,13 +1220,16 @@
             "path_id": "mhjk3t996oiy",
             "real_id": "mhjk3t996oiy",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-30 11:00:38",
@@ -1063,47 +1244,48 @@
         "real_id": "mhuto3r800b2",
         "children": [
           {
-            "updated_at": "2026-03-12 18:38:16",
+            "updated_at": "2026-04-23 22:25:09",
             "title": "执行节点",
             "path_id": "mhw66orrrfkm",
             "real_id": "mhw66orrrfkm",
             "children": [],
-            "article_type": 8
+            "doc_type": "document"
           },
           {
-            "updated_at": "2026-03-11 18:24:18",
+            "updated_at": "2026-05-12 17:49:36",
             "title": "事件节点",
             "path_id": "mhn7ko01v3yw",
             "real_id": "mhn7ko01v3yw",
             "children": [],
-            "article_type": 8
+            "doc_type": "document"
           },
           {
-            "updated_at": "2025-08-21 17:23:15",
+            "updated_at": "2026-04-23 22:13:16",
             "title": "流程控制节点",
             "path_id": "mhe8yn9bysd6",
             "real_id": "mhe8yn9bysd6",
             "children": [],
-            "article_type": 8
+            "doc_type": "document"
           },
           {
-            "updated_at": "2026-04-09 17:46:26",
+            "updated_at": "2026-04-24 10:20:13",
             "title": "查询节点",
             "path_id": "mhwbqlrw655q",
             "real_id": "mhwbqlrw655q",
             "children": [],
-            "article_type": 8
+            "doc_type": "document"
           },
           {
-            "updated_at": "2026-03-10 17:10:40",
+            "updated_at": "2026-04-27 18:24:04",
             "title": "运算节点",
             "path_id": "mhnd4l069tk0",
             "real_id": "mhnd4l069tk0",
             "children": [],
-            "article_type": 8
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-12-09 14:59:26",
@@ -1118,36 +1300,36 @@
             "real_id": "mhuf56rvxhgm",
             "children": [
               {
-                "updated_at": "2026-03-12 14:51:24",
+                "updated_at": "2026-05-12 16:27:19",
                 "title": "查询节点",
                 "path_id": "mholjx05ji8w",
                 "real_id": "mholjx05ji8w",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-10 10:31:59",
+                "updated_at": "2026-04-24 10:28:07",
                 "title": "运算节点",
                 "path_id": "mhfmxw9fn6n6",
                 "real_id": "mhfmxw9fn6n6",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-12 18:38:36",
+                "updated_at": "2026-04-24 10:31:38",
                 "title": "执行节点",
                 "path_id": "mh6obvipqv1g",
                 "real_id": "mh6obvipqv1g",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-10 16:27:23",
+                "updated_at": "2026-04-23 22:15:54",
                 "title": "流程控制节点",
                 "path_id": "mhxppurzujfq",
                 "real_id": "mhxppurzujfq",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-12-10 16:46:31",
@@ -1155,10 +1337,12 @@
                 "path_id": "mhor3u09y7u0",
                 "real_id": "mhor3u09y7u0",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-10 14:19:58",
@@ -1167,36 +1351,36 @@
             "real_id": "mhlgj60615uw",
             "children": [
               {
-                "updated_at": "2026-04-10 10:52:53",
+                "updated_at": "2026-04-24 10:27:28",
                 "title": "查询节点",
                 "path_id": "mhpw06rvah3a",
                 "real_id": "mhpw06rvah3a",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-10 11:21:59",
+                "updated_at": "2026-04-24 10:27:32",
                 "title": "运算节点",
                 "path_id": "mh7ys59fhtvu",
                 "real_id": "mh7ys59fhtvu",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-04-10 11:11:34",
+                "updated_at": "2026-04-23 22:16:55",
                 "title": "执行节点",
                 "path_id": "mhz064iplia4",
                 "real_id": "mhz064iplia4",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-09 16:54:56",
+                "updated_at": "2026-04-23 22:16:54",
                 "title": "流程控制节点",
                 "path_id": "mhq1k3rzp6oe",
                 "real_id": "mhq1k3rzp6oe",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-12-09 16:55:05",
@@ -1204,10 +1388,12 @@
                 "path_id": "mh84c29jwjgy",
                 "real_id": "mh84c29jwjgy",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-10 16:44:26",
@@ -1216,36 +1402,36 @@
             "real_id": "mhchx59g4u96",
             "children": [
               {
-                "updated_at": "2026-01-22 16:13:00",
+                "updated_at": "2026-04-27 18:53:43",
                 "title": "查询节点",
                 "path_id": "mh1w3z96rpne",
                 "real_id": "mh1w3z96rpne",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-01-22 16:13:07",
+                "updated_at": "2026-04-27 11:30:18",
                 "title": "运算节点",
                 "path_id": "mhjyvxrqz2fy",
                 "real_id": "mhjyvxrqz2fy",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-01-28 11:58:43",
+                "updated_at": "2026-04-24 10:26:26",
                 "title": "执行节点",
                 "path_id": "mhb09x012qu8",
                 "real_id": "mhb09x012qu8",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-10 15:52:55",
+                "updated_at": "2026-04-24 18:13:31",
                 "title": "流程控制节点",
                 "path_id": "mh21nw9b6f8i",
                 "real_id": "mh21nw9b6f8i",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-23 10:48:05",
@@ -1253,10 +1439,12 @@
                 "path_id": "mht31vila3ms",
                 "real_id": "mht31vila3ms",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-10 14:30:32",
@@ -1265,36 +1453,36 @@
             "real_id": "mhukp3r0c71q",
             "children": [
               {
-                "updated_at": "2026-01-22 16:19:06",
+                "updated_at": "2026-04-24 10:27:15",
                 "title": "查询节点",
                 "path_id": "mhk4furvds12",
                 "real_id": "mhk4furvds12",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-19 15:16:12",
+                "updated_at": "2026-04-24 10:28:25",
                 "title": "运算节点",
                 "path_id": "mhb5tu05hgfc",
                 "real_id": "mhb5tu05hgfc",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-23 11:38:53",
+                "updated_at": "2026-04-23 22:18:20",
                 "title": "执行节点",
                 "path_id": "mh277t9fl4tm",
                 "real_id": "mh277t9fl4tm",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2025-12-10 14:31:49",
+                "updated_at": "2026-04-23 22:18:17",
                 "title": "流程控制节点",
                 "path_id": "mhk9zrrzshm6",
                 "real_id": "mhk9zrrzshm6",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2026-01-23 10:49:04",
@@ -1302,10 +1490,12 @@
                 "path_id": "mhbbdr09w60g",
                 "real_id": "mhbbdr09w60g",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-10 16:47:01",
@@ -1314,20 +1504,20 @@
             "real_id": "mhcnh29kjjua",
             "children": [
               {
-                "updated_at": "2026-03-12 14:54:32",
+                "updated_at": "2026-04-24 10:27:09",
                 "title": "查询节点",
                 "path_id": "mh2crq9jzueq",
                 "real_id": "mh2crq9jzueq",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
-                "updated_at": "2026-01-22 16:19:58",
+                "updated_at": "2026-04-24 10:27:05",
                 "title": "运算节点",
                 "path_id": "mhte5piu3it0",
                 "real_id": "mhte5piu3it0",
                 "children": [],
-                "article_type": 8
+                "doc_type": "document"
               },
               {
                 "updated_at": "2025-12-10 16:46:16",
@@ -1335,16 +1525,20 @@
                 "path_id": "mhbgxo0eavlk",
                 "real_id": "mhbgxo0eavlk",
                 "children": [],
-                "article_type": 8
+                "article_type": 8,
+                "doc_type": "document"
               }
             ],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 18:00:01",
@@ -1358,7 +1552,8 @@
         "path_id": "mho2hirgodxi",
         "real_id": "mho2hirgodxi",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-04 10:52:01",
@@ -1366,10 +1561,12 @@
         "path_id": "mh0xm3ryh9hq",
         "real_id": "mh0xm3ryh9hq",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 18:00:22",
@@ -1383,7 +1580,8 @@
         "path_id": "mhrvqvioautg",
         "real_id": "mhrvqvioautg",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 19:02:43",
@@ -1391,7 +1589,8 @@
         "path_id": "mhyg4i0inazs",
         "real_id": "mhyg4i0inazs",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-01-30 10:59:32",
@@ -1399,7 +1598,8 @@
         "path_id": "mhpsmb91keka",
         "real_id": "mhpsmb91keka",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-11 19:04:59",
@@ -1407,15 +1607,16 @@
         "path_id": "mhzys1ic5eok",
         "real_id": "mhzys1ic5eok",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
-        "updated_at": "2026-03-30 16:47:15",
+        "updated_at": "2026-05-07 16:29:50",
         "title": "单位状态效果池",
         "path_id": "mhou93r2pxv2",
         "real_id": "mhou93r2pxv2",
         "children": [],
-        "article_type": 8
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-24 11:50:06",
@@ -1429,7 +1630,8 @@
             "path_id": "mhkirfrna1fy",
             "real_id": "mhkirfrna1fy",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:47:38",
@@ -1437,7 +1639,8 @@
             "path_id": "mhtshailzs7w",
             "real_id": "mhtshailzs7w",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 18:32:30",
@@ -1445,7 +1648,8 @@
             "path_id": "mhty17iqeht0",
             "real_id": "mhty17iqeht0",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:51:09",
@@ -1453,7 +1657,8 @@
             "path_id": "mhu951iz7wz8",
             "real_id": "mhu951iz7wz8",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-17 11:53:38",
@@ -1461,7 +1666,8 @@
             "path_id": "mhrnuz9izfne",
             "real_id": "mhrnuz9izfne",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 20:07:28",
@@ -1469,7 +1675,8 @@
             "path_id": "mhip8yit341o",
             "real_id": "mhip8yit341o",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:51:32",
@@ -1477,7 +1684,8 @@
             "path_id": "mhlaj0r9bldi",
             "real_id": "mhlaj0r9bldi",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-09-22 11:52:16",
@@ -1485,7 +1693,8 @@
             "path_id": "mhubgk9yy8gy",
             "real_id": "mhubgk9yy8gy",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-12-09 10:22:04",
@@ -1493,10 +1702,12 @@
             "path_id": "mh3fmi0t99ns",
             "real_id": "mh3fmi0t99ns",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-03-26 11:08:01",
@@ -1504,17 +1715,19 @@
         "path_id": "mh74ae9fsg8i",
         "real_id": "mh74ae9fsg8i",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
-        "updated_at": "2026-03-05 11:04:49",
+        "updated_at": "2026-04-26 03:56:05",
         "title": "经典模式角色编号一览",
         "path_id": "mh4imrrhzdzi",
         "real_id": "mh4imrrhzdzi",
         "children": [],
-        "article_type": 8
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   }
 ]

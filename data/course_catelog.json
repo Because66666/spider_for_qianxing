@@ -5,7 +5,8 @@
     "path_id": "mhhw2l08o6qo",
     "real_id": "mhhw2l08o6qo",
     "children": [],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2026-01-13 15:04:12",
@@ -13,7 +14,8 @@
     "path_id": "mh7pc59gri16",
     "real_id": "mh7pc59gri16",
     "children": [],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2026-03-30 15:52:39",
@@ -21,7 +23,8 @@
     "path_id": "mh76jr0msx4g",
     "real_id": "mh76jr0msx4g",
     "children": [],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 19:25:51",
@@ -35,7 +38,8 @@
         "path_id": "mhlcjxr9duvy",
         "real_id": "mhlcjxr9duvy",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-01-14 10:50:10",
@@ -43,7 +47,8 @@
         "path_id": "mhcegrr5omvi",
         "real_id": "mhcegrr5omvi",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-27 17:53:28",
@@ -51,7 +56,8 @@
         "path_id": "mhzu1vi0s3ms",
         "real_id": "mhzu1vi0s3ms",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-10 10:40:58",
@@ -59,7 +65,8 @@
         "path_id": "mhjuwpiubrh0",
         "real_id": "mhjuwpiubrh0",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-14 21:19:38",
@@ -67,7 +74,8 @@
         "path_id": "mhxmm9r879a6",
         "real_id": "mhxmm9r879a6",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-04-21 16:27:27",
@@ -75,18 +83,20 @@
         "path_id": "mhgf8i0hvzag",
         "real_id": "mhgf8i0hvzag",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
-        "updated_at": "2026-01-09 16:29:19",
+        "updated_at": "2026-05-14 11:06:22",
         "title": "1.7经典模式",
         "path_id": "mhvoc3rviq32",
         "real_id": "mhvoc3rviq32",
         "children": [],
-        "article_type": 8
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 19:20:09",
@@ -100,7 +110,8 @@
         "path_id": "mhumsn9uap96",
         "real_id": "mhumsn9uap96",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:02:10",
@@ -108,7 +119,8 @@
         "path_id": "mhr0zrrfahm6",
         "real_id": "mhr0zrrfahm6",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:00:40",
@@ -116,7 +128,8 @@
         "path_id": "mhi2dr0pe60g",
         "real_id": "mhi2dr0pe60g",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-17 11:13:10",
@@ -124,7 +137,8 @@
         "path_id": "mh93rq9zhueq",
         "real_id": "mh93rq9zhueq",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-13 20:56:04",
@@ -132,7 +146,8 @@
         "path_id": "mh055pi9lit0",
         "real_id": "mh055pi9lit0",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-13 20:52:07",
@@ -140,7 +155,8 @@
         "path_id": "mhr6jorjp77a",
         "real_id": "mhr6jorjp77a",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-21 14:38:44",
@@ -148,7 +164,8 @@
         "path_id": "mh99bn93wjzu",
         "real_id": "mh99bn93wjzu",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-01-06 15:52:29",
@@ -156,7 +173,8 @@
         "path_id": "mh0apmie08e4",
         "real_id": "mh0apmie08e4",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 18:46:13",
@@ -164,7 +182,8 @@
         "path_id": "mh09qf0mc628",
         "real_id": "mh09qf0mc628",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-14 21:57:09",
@@ -172,7 +191,8 @@
         "path_id": "mhw64cr51fue",
         "real_id": "mhw64cr51fue",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-11-21 14:25:05",
@@ -180,7 +200,8 @@
         "path_id": "mhv3ufrgotny",
         "real_id": "mhv3ufrgotny",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-01-23 13:59:17",
@@ -188,10 +209,12 @@
         "path_id": "mhz6s29zzonm",
         "real_id": "mhz6s29zzonm",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 19:20:35",
@@ -205,7 +228,8 @@
         "path_id": "mhflri07dzd4",
         "real_id": "mhflri07dzd4",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:05:23",
@@ -213,7 +237,8 @@
         "path_id": "mhq8ew91dx8i",
         "real_id": "mhq8ew91dx8i",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-17 11:15:39",
@@ -221,7 +246,8 @@
         "path_id": "mhz70x0ra8u8",
         "real_id": "mhz70x0ra8u8",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:06:16",
@@ -229,7 +255,8 @@
         "path_id": "mh85mxrh6kfy",
         "real_id": "mh85mxrh6kfy",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-13 13:39:12",
@@ -237,7 +264,8 @@
         "path_id": "mhtbbb9hr32y",
         "real_id": "mhtbbb9hr32y",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-22 10:26:30",
@@ -245,7 +273,8 @@
         "path_id": "mhc5uurnzzt2",
         "real_id": "mhc5uurnzzt2",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:06:33",
@@ -253,7 +282,8 @@
         "path_id": "mhm1sdi4ckxg",
         "real_id": "mhm1sdi4ckxg",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:08:26",
@@ -261,7 +291,8 @@
         "path_id": "mhn4nsiz7k18",
         "real_id": "mhn4nsiz7k18",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-17 15:44:35",
@@ -269,7 +300,8 @@
         "path_id": "mh8wpr0h7ywg",
         "real_id": "mh8wpr0h7ywg",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:09:10",
@@ -277,7 +309,8 @@
         "path_id": "mhsdgyi53pz0",
         "real_id": "mhsdgyi53pz0",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:09:51",
@@ -285,7 +318,8 @@
         "path_id": "mh0mrr0c4xps",
         "real_id": "mh0mrr0c4xps",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:10:23",
@@ -293,7 +327,8 @@
         "path_id": "mhfpf0rhlaeu",
         "real_id": "mhfpf0rhlaeu",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:10:57",
@@ -301,7 +336,8 @@
         "path_id": "mhg6ak9g62oy",
         "real_id": "mhg6ak9g62oy",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-22 10:37:36",
@@ -309,7 +345,8 @@
         "path_id": "mh1t3z9s7hne",
         "real_id": "mh1t3z9s7hne",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:11:15",
@@ -317,7 +354,8 @@
         "path_id": "mhsuhyi2b61o",
         "real_id": "mhsuhyi2b61o",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-29 12:11:31",
@@ -325,7 +363,8 @@
         "path_id": "mh53tyir62xo",
         "real_id": "mh53tyir62xo",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-22 09:59:33",
@@ -333,7 +372,8 @@
         "path_id": "mhw6purbjsrq",
         "real_id": "mhw6purbjsrq",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-16 18:19:49",
@@ -341,7 +381,8 @@
         "path_id": "mhhe9ji9ysn8",
         "real_id": "mhhe9ji9ysn8",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-01-23 13:59:13",
@@ -349,10 +390,12 @@
         "path_id": "mh6riq9wvxqq",
         "real_id": "mh6riq9wvxqq",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2026-02-04 21:04:26",
@@ -361,13 +404,20 @@
     "real_id": "mhyrrdiy2zis",
     "children": [
       {
-        "updated_at": "2026-02-24 14:53:12",
-        "title": "千星奇域 开发组分享（一）|  玩法设计交流",
-        "path_id": "mhu04t9rm1xm",
-        "real_id": "mhu04t9rm1xm",
+        "updated_at": "2026-05-25 11:59:34",
+        "title": "千星灵感小报-第二期",
+        "path_id": "mhji9b9qxw9m",
+        "real_id": "mhji9b9qxw9m",
         "children": [],
-        "article_type": 8,
-        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+        "doc_type": "document"
+      },
+      {
+        "updated_at": "2026-04-24 19:18:00",
+        "title": "【奇匠小贴士】数据中心食用指南—游玩时长",
+        "path_id": "mh8xj90jx5r4",
+        "real_id": "mh8xj90jx5r4",
+        "children": [],
+        "doc_type": "document"
       },
       {
         "updated_at": "2026-04-15 13:41:16",
@@ -375,18 +425,22 @@
         "path_id": "mhzzrx0fu1i8",
         "real_id": "mhzzrx0fu1i8",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
-        "updated_at": "2026-04-24 14:39:05",
-        "title": "【奇匠小贴士】数据中心食用指南—游玩时长",
-        "path_id": "mh8xj90jx5r4",
-        "real_id": "mh8xj90jx5r4",
+        "updated_at": "2026-02-24 14:53:12",
+        "title": "千星奇域 开发组分享（一）|  玩法设计交流",
+        "path_id": "mhu04t9rm1xm",
+        "real_id": "mhu04t9rm1xm",
         "children": [],
-        "article_type": 8
+        "article_type": 8,
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-09-17 19:23:24",
@@ -406,7 +460,8 @@
             "path_id": "mh8gqrrpzzm6",
             "real_id": "mh8gqrrpzzm6",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-29 12:12:05",
@@ -414,7 +469,8 @@
             "path_id": "mhhfcsifwb7w",
             "real_id": "mhhfcsifwb7w",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-29 12:12:20",
@@ -422,13 +478,16 @@
             "path_id": "mhqdyt95smtm",
             "real_id": "mhqdyt95smtm",
             "children": [],
-            "article_type": 8
+            "article_type": 8,
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-10-22 09:15:35",
@@ -443,7 +502,8 @@
         "real_id": "mhn7jl05i6o0",
         "children": [],
         "article_type": 8,
-        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhn7jl05i6o0/bd9f8f23-5c1f-4abe-a411-e41d0e10da1f.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhn7jl05i6o0/bd9f8f23-5c1f-4abe-a411-e41d0e10da1f.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-22 09:14:05",
@@ -458,7 +518,8 @@
             "real_id": "mhfbsz9agu62",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhfbsz9agu62/91f9bcd7-7205-4418-9eac-e0e2e686a981.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhfbsz9agu62/91f9bcd7-7205-4418-9eac-e0e2e686a981.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:00:19",
@@ -467,7 +528,8 @@
             "real_id": "mh6d6yikkikc",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh6d6yikkikc/8a678688-dbd2-4e6c-928a-f4e7cca526f2.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh6d6yikkikc/8a678688-dbd2-4e6c-928a-f4e7cca526f2.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:00:34",
@@ -476,7 +538,8 @@
             "real_id": "mhxekxruo6ym",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhxekxruo6ym/7c835546-4600-489a-9d04-b2985e454de8.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhxekxruo6ym/7c835546-4600-489a-9d04-b2985e454de8.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:01:09",
@@ -485,10 +548,12 @@
             "real_id": "mhofyx04rvcw",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhofyx04rvcw/e1ac5b7d-e207-4c73-b0a0-7324ee991c1b.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhofyx04rvcw/e1ac5b7d-e207-4c73-b0a0-7324ee991c1b.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       },
       {
         "updated_at": "2025-10-20 18:08:14",
@@ -503,7 +568,8 @@
             "real_id": "mhysk6rycl8m",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhysk6rycl8m/8309e2b5-7b47-4f66-81ee-cdcd946f040a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhysk6rycl8m/8309e2b5-7b47-4f66-81ee-cdcd946f040a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:02:47",
@@ -512,7 +578,8 @@
             "real_id": "mhyn09rtxvni",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyn09rtxvni/55c8d920-df78-41b8-83ce-3c47fb4e76b4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyn09rtxvni/55c8d920-df78-41b8-83ce-3c47fb4e76b4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-11-11 18:09:48",
@@ -521,7 +588,8 @@
             "real_id": "mh7lmaiju798",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7lmaiju798/4c860c51-b0af-4029-86de-47a3263a1c27.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7lmaiju798/4c860c51-b0af-4029-86de-47a3263a1c27.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-11-11 18:10:16",
@@ -530,7 +598,8 @@
             "real_id": "mhgk8b99qiuy",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgk8b99qiuy/b63064bb-0361-4ca0-be83-81c812c2e02a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgk8b99qiuy/b63064bb-0361-4ca0-be83-81c812c2e02a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:04:07",
@@ -539,7 +608,8 @@
             "real_id": "mhpiuc0zmugo",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhpiuc0zmugo/d51b07ff-d25d-4389-8446-6f6756a19b7e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhpiuc0zmugo/d51b07ff-d25d-4389-8446-6f6756a19b7e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:05:17",
@@ -548,7 +618,8 @@
             "real_id": "mhyhgcrpj62e",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyhgcrpj62e/17dba101-7e7d-48c8-9e11-4c1b3c6b6c74.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhyhgcrpj62e/17dba101-7e7d-48c8-9e11-4c1b3c6b6c74.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-11-11 18:12:49",
@@ -557,7 +628,8 @@
             "real_id": "mh7g2diffho4",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7g2diffho4/02aa5138-5dee-4dcd-8b6f-889915e8fe21.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7g2diffho4/02aa5138-5dee-4dcd-8b6f-889915e8fe21.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 18:53:56",
@@ -566,7 +638,8 @@
             "real_id": "mhgeoe95bt9u",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgeoe95bt9u/086cf001-ab03-4484-82f7-d3a1fbf65c88.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhgeoe95bt9u/086cf001-ab03-4484-82f7-d3a1fbf65c88.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:08:36",
@@ -575,7 +648,8 @@
             "real_id": "mhpdaf0v84vk",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhpdaf0v84vk/a8f7f590-eb26-4907-ae62-b9607bdd5fbe.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhpdaf0v84vk/a8f7f590-eb26-4907-ae62-b9607bdd5fbe.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-10-21 16:53:28",
@@ -584,7 +658,8 @@
             "real_id": "mh7aigib0s30",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7aigib0s30/9facf63c-c700-4925-b0d0-027844e40828.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh7aigib0s30/9facf63c-c700-4925-b0d0-027844e40828.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2025-11-11 18:08:03",
@@ -593,7 +668,8 @@
             "real_id": "mhg94h90x3oq",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhg94h90x3oq/ea6fc591-4da4-4682-8d90-e449e682b2e7.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhg94h90x3oq/ea6fc591-4da4-4682-8d90-e449e682b2e7.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-02-12 14:23:53",
@@ -602,7 +678,8 @@
             "real_id": "mhv9m60wv7ew",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-03 19:11:11",
@@ -611,7 +688,8 @@
             "real_id": "mhi1f1ifqj1w",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhi1f1ifqj1w/8b2e44a8-acf8-4a89-8914-3a19ebb4e675.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhi1f1ifqj1w/8b2e44a8-acf8-4a89-8914-3a19ebb4e675.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-25 17:43:51",
@@ -620,7 +698,8 @@
             "real_id": "mhll54i94vjg",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhll54i94vjg/6b3cc971-9c42-473c-9c36-b871efec4635.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhll54i94vjg/6b3cc971-9c42-473c-9c36-b871efec4635.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-25 17:25:25",
@@ -629,7 +708,8 @@
             "real_id": "mhujr59z1756",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhujr59z1756/227d9d18-a941-477a-b72b-6e381b06911a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhujr59z1756/227d9d18-a941-477a-b72b-6e381b06911a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           },
           {
             "updated_at": "2026-03-25 17:48:42",
@@ -638,13 +718,16 @@
             "real_id": "mh3id60oxiqw",
             "children": [],
             "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh3id60oxiqw/8595c1ce-e4a1-4200-9d8e-831eda19df1e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh3id60oxiqw/8595c1ce-e4a1-4200-9d8e-831eda19df1e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
+            "doc_type": "document"
           }
         ],
-        "article_type": 8
+        "article_type": 8,
+        "doc_type": "document"
       }
     ],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   },
   {
     "updated_at": "2025-12-26 15:23:00",
@@ -652,6 +735,7 @@
     "path_id": "mh53ejiegx0k",
     "real_id": "mh53ejiegx0k",
     "children": [],
-    "article_type": 8
+    "article_type": 8,
+    "doc_type": "document"
   }
 ]
