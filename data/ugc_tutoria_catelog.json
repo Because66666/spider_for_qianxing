@@ -32,14 +32,13 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-03-11 11:35:17",
+        "updated_at": "2026-07-10 16:24:01",
         "title": "地形编辑",
         "path_id": "mhwe1n94b1x6",
         "real_id": "mhwe1n94b1x6",
         "children": [],
-        "article_type": 8,
-        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/fc69214f-5c2e-48df-8b82-969a9d8277a4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-        "doc_type": "document"
+        "doc_type": "document",
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/fc69214f-5c2e-48df-8b82-969a9d8277a4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
       },
       {
         "updated_at": "2026-03-11 11:38:14",
@@ -69,7 +68,7 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-05-06 19:21:01",
+        "updated_at": "2026-07-17 18:16:39",
         "title": "关卡设置",
         "path_id": "mhn9vpia00qc",
         "real_id": "mhn9vpia00qc",
@@ -154,7 +153,7 @@
         "real_id": "mh2xoxrop0la",
         "children": [
           {
-            "updated_at": "2026-06-15 17:46:45",
+            "updated_at": "2026-07-17 17:24:07",
             "title": "玩家",
             "path_id": "mhctmgi51lpo",
             "real_id": "mhctmgi51lpo",
@@ -269,7 +268,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-15 14:29:34",
+                "updated_at": "2026-07-08 11:23:00",
                 "title": "模型",
                 "path_id": "mhrutdio6904",
                 "real_id": "mhrutdio6904",
@@ -340,12 +339,11 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-12 10:51:27",
+                "updated_at": "2026-07-17 17:31:47",
                 "title": "仇恨配置",
                 "path_id": "mhw9ut96q96y",
                 "real_id": "mhw9ut96q96y",
                 "children": [],
-                "article_type": 8,
                 "doc_type": "document"
               },
               {
@@ -404,12 +402,11 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-11 16:48:35",
+                "updated_at": "2026-07-10 17:11:49",
                 "title": "基础运动器",
                 "path_id": "mhnmcmipncrg",
                 "real_id": "mhnmcmipncrg",
                 "children": [],
-                "article_type": 8,
                 "doc_type": "document"
               },
               {
@@ -649,7 +646,7 @@
             "doc_type": "document"
           },
           {
-            "updated_at": "2026-06-15 18:16:48",
+            "updated_at": "2026-07-17 17:14:04",
             "title": "节点图",
             "path_id": "mhjwjrr5n73i",
             "real_id": "mhjwjrr5n73i",
@@ -728,12 +725,11 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2025-10-17 11:51:20",
+                "updated_at": "2026-07-17 17:17:21",
                 "title": "道具展示界面控件",
                 "path_id": "mhjja1ipq9ck",
                 "real_id": "mhjja1ipq9ck",
                 "children": [],
-                "article_type": 8,
                 "doc_type": "document"
               },
               {
@@ -835,7 +831,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-26 16:09:44",
+                "updated_at": "2026-07-17 17:58:27",
                 "title": "悬浮交互页控件",
                 "path_id": "mh2u2e9o3jn6",
                 "real_id": "mh2u2e9o3jn6",
@@ -903,7 +899,7 @@
             "real_id": "mhewyi0fjfvs",
             "children": [
               {
-                "updated_at": "2026-05-07 16:22:13",
+                "updated_at": "2026-07-10 11:18:07",
                 "title": "界面布局",
                 "path_id": "mhozt0r74ng6",
                 "real_id": "mhozt0r74ng6",
@@ -1115,12 +1111,11 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-03-04 17:08:02",
+                "updated_at": "2026-07-10 10:52:35",
                 "title": "技能变量",
                 "path_id": "mhhzqw98264i",
                 "real_id": "mhhzqw98264i",
                 "children": [],
-                "article_type": 8,
                 "doc_type": "document"
               },
               {
@@ -1298,7 +1293,7 @@
         "real_id": "mhuto3r800b2",
         "children": [
           {
-            "updated_at": "2026-06-24 17:16:04",
+            "updated_at": "2026-07-08 11:19:45",
             "title": "执行节点",
             "path_id": "mhw66orrrfkm",
             "real_id": "mhw66orrrfkm",
@@ -1306,7 +1301,7 @@
             "doc_type": "document"
           },
           {
-            "updated_at": "2026-06-29 16:53:50",
+            "updated_at": "2026-07-17 17:38:20",
             "title": "事件节点",
             "path_id": "mhn7ko01v3yw",
             "real_id": "mhn7ko01v3yw",
@@ -1322,7 +1317,7 @@
             "doc_type": "document"
           },
           {
-            "updated_at": "2026-06-24 17:18:41",
+            "updated_at": "2026-07-06 10:20:54",
             "title": "查询节点",
             "path_id": "mhwbqlrw655q",
             "real_id": "mhwbqlrw655q",
@@ -1362,7 +1357,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-24 17:21:48",
+                "updated_at": "2026-07-10 16:28:37",
                 "title": "运算节点",
                 "path_id": "mhfmxw9fn6n6",
                 "real_id": "mhfmxw9fn6n6",
@@ -1464,7 +1459,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-24 17:37:00",
+                "updated_at": "2026-07-10 16:46:50",
                 "title": "运算节点",
                 "path_id": "mhjyvxrqz2fy",
                 "real_id": "mhjyvxrqz2fy",
@@ -1515,7 +1510,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-24 17:37:41",
+                "updated_at": "2026-07-10 16:29:23",
                 "title": "运算节点",
                 "path_id": "mhb5tu05hgfc",
                 "real_id": "mhb5tu05hgfc",
@@ -1558,7 +1553,7 @@
             "real_id": "mho2iu0eaia0",
             "children": [
               {
-                "updated_at": "2026-06-24 17:09:26",
+                "updated_at": "2026-07-02 23:24:15",
                 "title": "查询节点",
                 "path_id": "mh65asiyhv2k",
                 "real_id": "mh65asiyhv2k",
@@ -1566,7 +1561,7 @@
                 "doc_type": "document"
               },
               {
-                "updated_at": "2026-06-24 17:09:53",
+                "updated_at": "2026-07-10 16:29:32",
                 "title": "运算节点",
                 "path_id": "mho82r0ip7v4",
                 "real_id": "mho82r0ip7v4",
@@ -1746,12 +1741,11 @@
             "doc_type": "document"
           },
           {
-            "updated_at": "2025-10-21 18:32:30",
+            "updated_at": "2026-07-10 17:05:32",
             "title": "复合节点",
             "path_id": "mhty17iqeht0",
             "real_id": "mhty17iqeht0",
             "children": [],
-            "article_type": 8,
             "doc_type": "document"
           },
           {

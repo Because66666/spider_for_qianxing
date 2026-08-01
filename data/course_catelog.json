@@ -1,11 +1,10 @@
 [
   {
-    "updated_at": "2025-12-26 15:22:09",
+    "updated_at": "2026-07-09 16:01:47",
     "title": "学习导览&读前须知",
     "path_id": "mhhw2l08o6qo",
     "real_id": "mhhw2l08o6qo",
     "children": [],
-    "article_type": 8,
     "doc_type": "document"
   },
   {
@@ -35,18 +34,25 @@
     "doc_type": "document"
   },
   {
+    "updated_at": "2026-07-17 18:36:33",
+    "title": "奇匠订阅",
+    "path_id": "mh7jw0r0a106",
+    "real_id": "mh7jw0r0a106",
+    "children": [],
+    "doc_type": "document"
+  },
+  {
     "updated_at": "2025-09-17 19:25:51",
     "title": "编辑器通识",
     "path_id": "mhj7yf0vk6nk",
     "real_id": "mhj7yf0vk6nk",
     "children": [
       {
-        "updated_at": "2026-01-14 10:45:50",
+        "updated_at": "2026-07-09 16:48:19",
         "title": "1.1编辑器界面基础认识",
         "path_id": "mhlcjxr9duvy",
         "real_id": "mhlcjxr9duvy",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -77,21 +83,19 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-14 21:19:38",
+        "updated_at": "2026-07-09 15:34:08",
         "title": "1.5Debug调试",
         "path_id": "mhxmm9r879a6",
         "real_id": "mhxmm9r879a6",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-04-21 16:27:27",
+        "updated_at": "2026-07-09 15:01:30",
         "title": "1.6奇域资产中心",
         "path_id": "mhgf8i0hvzag",
         "real_id": "mhgf8i0hvzag",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -158,21 +162,19 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-11-13 20:52:07",
+        "updated_at": "2026-07-09 16:49:58",
         "title": "2.6界面控件——展示一段信息，按下触发事件",
         "path_id": "mhr6jorjp77a",
         "real_id": "mhr6jorjp77a",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-11-21 14:38:44",
+        "updated_at": "2026-07-09 16:46:27",
         "title": "2.7阵营设置——标签判断与攻击逻辑",
         "path_id": "mh99bn93wjzu",
         "real_id": "mh99bn93wjzu",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -185,12 +187,11 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-29 18:46:13",
+        "updated_at": "2026-07-09 16:49:34",
         "title": "2.9角色扰动装置——让角色受到持续或瞬间力的作用",
         "path_id": "mh09qf0mc628",
         "real_id": "mh09qf0mc628",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -249,12 +250,11 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-17 11:15:39",
+        "updated_at": "2026-07-17 18:29:54",
         "title": "3.3跟随运动器——制作吸附、跟随的道具",
         "path_id": "mhz70x0ra8u8",
         "real_id": "mhz70x0ra8u8",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -294,30 +294,27 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-29 12:08:26",
+        "updated_at": "2026-07-09 15:02:57",
         "title": "3.8投射运动器——制作一个能发射的子弹",
         "path_id": "mhn4nsiz7k18",
         "real_id": "mhn4nsiz7k18",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-17 15:44:35",
+        "updated_at": "2026-07-09 18:15:22",
         "title": "3.9能力单元——具有预设属性的战斗组件",
         "path_id": "mh8wpr0h7ywg",
         "real_id": "mh8wpr0h7ywg",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-29 12:09:10",
+        "updated_at": "2026-07-09 15:00:43",
         "title": "3.10命中与受击——制作攻击命中的效果",
         "path_id": "mhsdgyi53pz0",
         "real_id": "mhsdgyi53pz0",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -366,21 +363,19 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-29 12:11:31",
+        "updated_at": "2026-07-09 15:31:32",
         "title": "3.16货币与商店——制作可以买卖道具的商店",
         "path_id": "mh53tyir62xo",
         "real_id": "mh53tyir62xo",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-22 09:59:33",
+        "updated_at": "2026-07-09 16:29:57",
         "title": "3.17小地图标识——游戏地图中显示实体位置的特殊标签",
         "path_id": "mhw6purbjsrq",
         "real_id": "mhw6purbjsrq",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -399,6 +394,14 @@
         "real_id": "mh6riq9wvxqq",
         "children": [],
         "article_type": 8,
+        "doc_type": "document"
+      },
+      {
+        "updated_at": "2026-07-10 16:14:20",
+        "title": "界面控件——手柄适配引导",
+        "path_id": "mhjobxrdykym",
+        "real_id": "mhjobxrdykym",
+        "children": [],
         "doc_type": "document"
       }
     ],
