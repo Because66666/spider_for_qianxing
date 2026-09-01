@@ -17,16 +17,15 @@
     "doc_type": "document"
   },
   {
-    "updated_at": "2026-03-30 15:52:39",
+    "updated_at": "2026-08-24 09:37:55",
     "title": "【奇匠小贴士】灵感激励计划一页流",
     "path_id": "mh76jr0msx4g",
     "real_id": "mh76jr0msx4g",
     "children": [],
-    "article_type": 8,
     "doc_type": "document"
   },
   {
-    "updated_at": "2026-07-01 09:01:16",
+    "updated_at": "2026-08-24 09:37:56",
     "title": "加入奇匠共创讨论群，获取更多活动资讯",
     "path_id": "mhutlz9w46ze",
     "real_id": "mhutlz9w46ze",
@@ -34,7 +33,7 @@
     "doc_type": "document"
   },
   {
-    "updated_at": "2026-07-17 18:36:33",
+    "updated_at": "2026-08-24 09:37:56",
     "title": "奇匠订阅",
     "path_id": "mh7jw0r0a106",
     "real_id": "mh7jw0r0a106",
@@ -91,7 +90,7 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-07-09 15:01:30",
+        "updated_at": "2026-08-24 09:37:56",
         "title": "1.6奇域资产中心",
         "path_id": "mhgf8i0hvzag",
         "real_id": "mhgf8i0hvzag",
@@ -99,7 +98,7 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-05-14 11:06:22",
+        "updated_at": "2026-08-24 09:37:56",
         "title": "1.7经典模式",
         "path_id": "mhvoc3rviq32",
         "real_id": "mhvoc3rviq32",
@@ -213,12 +212,11 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-01-23 13:59:17",
+        "updated_at": "2026-08-24 09:37:57",
         "title": "2.12场景生成模板管理——快速生成关卡的场景",
         "path_id": "mhz6s29zzonm",
         "real_id": "mhz6s29zzonm",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       }
     ],
@@ -388,16 +386,15 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-01-23 13:59:13",
+        "updated_at": "2026-08-24 09:37:56",
         "title": "3.19复杂造物——通过状态决策触发自定义造物技能",
         "path_id": "mh6riq9wvxqq",
         "real_id": "mh6riq9wvxqq",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-07-10 16:14:20",
+        "updated_at": "2026-08-24 09:37:57",
         "title": "界面控件——手柄适配引导",
         "path_id": "mhjobxrdykym",
         "real_id": "mhjobxrdykym",
@@ -409,13 +406,13 @@
     "doc_type": "document"
   },
   {
-    "updated_at": "2026-02-04 21:04:26",
+    "updated_at": "2026-08-24 09:37:56",
     "title": "千星奇域创作分享",
     "path_id": "mhyrrdiy2zis",
     "real_id": "mhyrrdiy2zis",
     "children": [
       {
-        "updated_at": "2026-05-25 11:59:34",
+        "updated_at": "2026-08-24 09:37:57",
         "title": "千星灵感小报-第二期",
         "path_id": "mhji9b9qxw9m",
         "real_id": "mhji9b9qxw9m",
@@ -423,7 +420,7 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-04-24 19:18:00",
+        "updated_at": "2026-08-24 09:37:57",
         "title": "【奇匠小贴士】数据中心食用指南—游玩时长",
         "path_id": "mh8xj90jx5r4",
         "real_id": "mh8xj90jx5r4",
@@ -431,26 +428,23 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-04-15 13:41:16",
+        "updated_at": "2026-08-24 09:37:57",
         "title": "千星灵感小报-第一期",
         "path_id": "mhzzrx0fu1i8",
         "real_id": "mhzzrx0fu1i8",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-02-24 14:53:12",
+        "updated_at": "2026-08-24 09:37:56",
         "title": "千星奇域 开发组分享（一）|  玩法设计交流",
         "path_id": "mhu04t9rm1xm",
         "real_id": "mhu04t9rm1xm",
         "children": [],
-        "article_type": 8,
-        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-        "doc_type": "document"
+        "doc_type": "document",
+        "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
       }
     ],
-    "article_type": 8,
     "doc_type": "document"
   },
   {
@@ -683,54 +677,49 @@
             "doc_type": "document"
           },
           {
-            "updated_at": "2026-02-12 14:23:53",
+            "updated_at": "2026-08-24 09:37:57",
             "title": "如何打造吸引玩家的宣传素材",
             "path_id": "mhv9m60wv7ew",
             "real_id": "mhv9m60wv7ew",
             "children": [],
-            "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-            "doc_type": "document"
+            "doc_type": "document",
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhv9m60wv7ew/e93b6fc1-f417-4cb6-ab4c-7f98583f6e56.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2026-03-03 19:11:11",
+            "updated_at": "2026-08-24 09:37:56",
             "title": "奇域资产中心",
             "path_id": "mhi1f1ifqj1w",
             "real_id": "mhi1f1ifqj1w",
             "children": [],
-            "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhi1f1ifqj1w/8b2e44a8-acf8-4a89-8914-3a19ebb4e675.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-            "doc_type": "document"
+            "doc_type": "document",
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhi1f1ifqj1w/8b2e44a8-acf8-4a89-8914-3a19ebb4e675.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2026-03-25 17:43:51",
+            "updated_at": "2026-08-24 09:37:56",
             "title": "定时器",
             "path_id": "mhll54i94vjg",
             "real_id": "mhll54i94vjg",
             "children": [],
-            "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhll54i94vjg/6b3cc971-9c42-473c-9c36-b871efec4635.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-            "doc_type": "document"
+            "doc_type": "document",
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhll54i94vjg/6b3cc971-9c42-473c-9c36-b871efec4635.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2026-03-25 17:25:25",
+            "updated_at": "2026-08-24 09:37:56",
             "title": "全局计时器",
             "path_id": "mhujr59z1756",
             "real_id": "mhujr59z1756",
             "children": [],
-            "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhujr59z1756/227d9d18-a941-477a-b72b-6e381b06911a.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-            "doc_type": "document"
+            "doc_type": "document",
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhujr59z1756/6d80a92f-3614-49ea-ba2d-dd5334dca2d7.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           },
           {
-            "updated_at": "2026-03-25 17:48:42",
+            "updated_at": "2026-08-24 09:37:57",
             "title": "信号",
             "path_id": "mh3id60oxiqw",
             "real_id": "mh3id60oxiqw",
             "children": [],
-            "article_type": 8,
-            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh3id60oxiqw/8595c1ce-e4a1-4200-9d8e-831eda19df1e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast",
-            "doc_type": "document"
+            "doc_type": "document",
+            "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mh3id60oxiqw/8595c1ce-e4a1-4200-9d8e-831eda19df1e.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
           }
         ],
         "article_type": 8,
