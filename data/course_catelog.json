@@ -8,12 +8,11 @@
     "doc_type": "document"
   },
   {
-    "updated_at": "2026-01-13 15:04:12",
+    "updated_at": "2026-09-29 12:08:46",
     "title": "更新日志",
     "path_id": "mh7pc59gri16",
     "real_id": "mh7pc59gri16",
     "children": [],
-    "article_type": 8,
     "doc_type": "document"
   },
   {
@@ -98,7 +97,7 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-08-24 09:37:56",
+        "updated_at": "2026-08-31 18:47:05",
         "title": "1.7经典模式",
         "path_id": "mhvoc3rviq32",
         "real_id": "mhvoc3rviq32",
@@ -274,12 +273,11 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2025-10-22 10:26:30",
+        "updated_at": "2026-09-21 14:43:26",
         "title": "3.6信号通信——一对多的信号广播，触发多物体产生不同行为",
         "path_id": "mhc5uurnzzt2",
         "real_id": "mhc5uurnzzt2",
         "children": [],
-        "article_type": 8,
         "doc_type": "document"
       },
       {
@@ -394,10 +392,18 @@
         "doc_type": "document"
       },
       {
-        "updated_at": "2026-08-24 09:37:57",
-        "title": "界面控件——手柄适配引导",
+        "updated_at": "2026-09-24 11:35:00",
+        "title": "3.20界面控件——手柄适配引导",
         "path_id": "mhjobxrdykym",
         "real_id": "mhjobxrdykym",
+        "children": [],
+        "doc_type": "document"
+      },
+      {
+        "updated_at": "2026-09-24 15:09:11",
+        "title": "3.21客户端脚本——制作点击收集玩法",
+        "path_id": "mh47p30a87qo",
+        "real_id": "mh47p30a87qo",
         "children": [],
         "doc_type": "document"
       }
@@ -443,6 +449,14 @@
         "children": [],
         "doc_type": "document",
         "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/course/cn/zh-cn/mhu04t9rm1xm/ea853997-a2d1-4b70-8f96-10fa7a1bcb67.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+      },
+      {
+        "updated_at": "2026-09-03 14:47:34",
+        "title": "【奇匠小贴士】奇域共创计划使用指南",
+        "path_id": "mhw37k901ygy",
+        "real_id": "mhw37k901ygy",
+        "children": [],
+        "doc_type": "document"
       }
     ],
     "doc_type": "document"
@@ -495,7 +509,7 @@
     "doc_type": "document"
   },
   {
-    "updated_at": "2025-10-22 09:15:35",
+    "updated_at": "2026-09-01 16:57:54",
     "title": "新手入门系列视频教程",
     "path_id": "mhd6259kqvyi",
     "real_id": "mhd6259kqvyi",
@@ -726,7 +740,6 @@
         "doc_type": "document"
       }
     ],
-    "article_type": 8,
     "doc_type": "document"
   },
   {
